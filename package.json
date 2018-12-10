@@ -1,0 +1,22 @@
+{
+  "name": "react-native-sqlite-app-groups",
+  "version": "0.0.1",
+  "description": "SQLite bridge for accessing sqlite db in app groups.",
+  "directories": {
+    "ios": "ios",
+    "lib": "lib"
+  },
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "rnpm": {
+    "ios": {
+      "project": "ios/RNSQLiteAG.xcodeproj"
+    }
+  },
+
+  "keywords": ["react-native", "react-component"],
+  "author": "David Hagege",
+  "license": "WTFPL"
+}
