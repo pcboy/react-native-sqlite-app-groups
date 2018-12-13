@@ -7,6 +7,11 @@
     "lib": "lib"
   },
   "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcboy/react-native-sqlite-app-groups.git"
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +20,7 @@
       "project": "ios/RNSQLiteAG.xcodeproj"
     }
   },
-
+  "homepage": "https://github.com/pcboy/react-native-sqlite-app-groups#readme",
   "keywords": ["react-native", "react-component"],
   "author": "David Hagege",
   "license": "WTFPL"
