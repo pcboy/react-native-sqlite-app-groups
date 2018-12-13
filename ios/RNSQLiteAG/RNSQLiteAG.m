@@ -1,6 +1,11 @@
 
 #import <Foundation/Foundation.h>
-#import "RCTBridgeModule.h"
+
+#import <React/RCTEventEmitter.h>
+#import <React/RCTBridge.h>
+#import <React/RCTConvert.h>
+#import <React/RCTEventDispatcher.h>
+#import <React/RCTUtils.h>
 
 #import <sqlite3.h>
 
